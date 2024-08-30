@@ -2,8 +2,8 @@
 
 ### Introduction
 
-This project aims to provide a simple and efficient implementation for converting various data types into 3-byte (24-bit) integers.
- The current implementation supports conversions from the following data types:
+This project aims to provide an implementation for converting various data types into 3-byte (24-bit) integers.
+The current implementation supports conversions from the following data types:
 
 - **`char` (1 byte):** Converts a single-byte character into a 3-byte representation.
 - **`short` (2 bytes):** Converts a 2-byte integer into a 3-byte representation.
@@ -25,7 +25,7 @@ The project is organized as requested..
 └── test (N/A)
 ```
 
-Although  the referred bonus implementation and corresponding tests are mentioned , they have not yet been implemented
+Although  the bonus implementation and corresponding tests are mentioned , they have not yet been implemented
 
 ### How to: Build, compile & run
 
